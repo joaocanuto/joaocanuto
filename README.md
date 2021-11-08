@@ -25,6 +25,5 @@
  
 <div> 
  
-  !(https://github.com/joaocanuto/joaocanuto/blob/output/github-contribution-grid-snake.svg)
- 
+   ![Snake animation](https://github.com/joaocanuto/joaocanuto/blob/output/github-contribution-grid-snake.svg)
 </div>
