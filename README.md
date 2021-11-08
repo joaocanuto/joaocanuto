@@ -1,11 +1,13 @@
-### João Guilherme
-## Bio:
-I'm a brazilian student for UECE, graduating in Computer Science, and studing for Competitive Progamming. Also I've 21 years.
-
-## Links:
-<img src="https://img.shields.io/badge/joaogacanuto-100000?style=flat&logo=github&logoColor=blueviolet" alt="GitHub Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/joaogacanuto-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25">&nbsp;
-<img src="https://img.shields.io/badge/joaogacanuto-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" height="25">&nbsp;
+# João Guilherme
+ ##
+ 
+<div> 
+  <a href="https://www.instagram.com/joaogcanuto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaogacanuto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/joaocanuto9" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
 ### About me
 - 🔭 I’m currently working on **Competitive Progamming**
