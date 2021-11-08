@@ -1,5 +1,9 @@
-### Hi there 👋
-I'm a brazilian soccer... no, not yet... I'm a brazilian student for UECE, graduating in Computer Science, and studing for Competitive Progamming. Also I've 21 years.
+### João Guilherme
+##Bio:
+I'm a brazilian student for UECE, graduating in Computer Science, and studing for Competitive Progamming. Also I've 21 years.
+
+##Links:
+<img src="https://img.shields.io/badge/joaogacanuto-1?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25">&nbsp;
 
 ### About me
 - 🔭 I’m currently working on **Competitive Progamming**
