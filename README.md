@@ -6,8 +6,6 @@
  
 </div>
 
-<a href="https://app.daily.dev/joaocanuto"><img src="https://api.daily.dev/devcards/0c0992dbb23e46a8acd4b9c17147c645.png?r=8g4" width="400" alt="Joao Guilherme Araujo Canuto's Dev Card" align="right"/></a>
-
 ### About me
 - 🔭 I’m currently working on **Competitive Progamming**
 - 🌱 I’m currently learning **Basics of C++**
