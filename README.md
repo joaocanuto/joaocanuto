@@ -26,3 +26,8 @@
  
    ![Snake animation](https://github.com/joaocanuto/joaocanuto/blob/output/github-contribution-grid-snake.svg)
 </div>
+## 
+![Metrics](https://raw.githubusercontent.com/joaocanuto/joaocanuto/github-metrics/github-metrics.svg)
+![Most used languages](https://raw.githubusercontent.com/joaocanuto/joaocanuto/github-metrics/language.svg)
+![Notable contributions](https://raw.githubusercontent.com/joaocanuto/joaocanuto/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/joaocanuto/joaocanuto/github-metrics/achievements.svg)
