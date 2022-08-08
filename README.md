@@ -1,24 +1,25 @@
 # João Guilherme
-<div> 
-  <a href="https://www.instagram.com/joaogcanuto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaogacanuto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joão-guilherme-araujo-canuto-294084207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+<a href="https://www.github.com/joaocanuto" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/joaogacanuto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
+
+## About me
+🔭&nbsp;I’m currently working on **Full Stack Development**
+<br/>🌱&nbsp;Learning about **Web Development : Angular Framework and Spring Framework**
+<br/>💡&nbsp;I'm interested about **Computer Science, Games and Series**
+<br/>💬&nbsp;Ask me about **Web Development and Backend**
+<br/>⚡&nbsp;Fun fact **TFT player**
+
+## Tech Stack
+<img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular" alt="angular Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Java-05122A?style=flat&logo=java" alt="java Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Postgresql-05122A?style=flat&logo=postgresql" alt="postgresql Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Typescript-05122A?style=flat&logo=typescript" alt="typescript Badge" height="25">&nbsp;
+
+## GitHub Analytics
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=&theme=default&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=default&layout=compact&langs_count=5">
 </div>
-
-### About me
-- 🔭 I’m currently working on **Competitive Progamming**
-- 🌱 I’m currently learning **Basics of C++**
-- 💬 Ask me about **Competitive Progamming**
-- 🎓 Graduating in **Computer Science at UECE**
-- ⚡ Fun fact: Player of CS-GO in CDP(2020/2021)
-  
-## 
-
-<div align="center">
-  <a href="https://github.com/joaocanuto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocanuto&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-</div>
-  
-##
-
