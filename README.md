@@ -20,6 +20,6 @@
 
 ## GitHub Analytics
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=&theme=default&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=default&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaocanuto&theme=default&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocanuto&theme=default&layout=compact&langs_count=5">
 </div>
