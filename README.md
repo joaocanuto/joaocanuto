@@ -18,6 +18,7 @@
 | JavaScript            | Improving   | ⭐⭐ | 
 | WebServices           | Improving   | ⭐⭐⭐ |
 | PostgresSQL           | Improving   | ⭐⭐|
+| Modeling DB           | Improving   | ⭐⭐|
 | Spring                | To Improve  | ⭐ |
 | TypeScript            | To Improve  | ⭐ | 
 | Angular               | To Improve  | ⭐ |
