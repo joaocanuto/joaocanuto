@@ -15,13 +15,11 @@
 
 |       To Improve List ⭐⭐⭐⭐⭐            | Status  | Stars |
 |---------------------------------------------|---------|-----|
-| JavaScript            | Improving   | ⭐⭐ | 
 | WebServices           | Improving   | ⭐⭐⭐ |
 | PostgresSQL           | Improving   | ⭐⭐|
 | Modeling DB           | Improving   | ⭐⭐|
 | Spring                | To Improve  | ⭐ |
-| TypeScript            | To Improve  | ⭐ | 
-| Angular               | To Improve  | ⭐ |
+| Angular               | Improving  | ⭐ |
 | React                 | To Learn    | ✨ |
 | Cloud                 | Learning    | ✨ ✨|
 
