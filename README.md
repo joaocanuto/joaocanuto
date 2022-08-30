@@ -17,9 +17,9 @@
 |---------------------------------------------|---------|-----|
 | WebServices           | Improving   | ⭐⭐⭐ |
 | PostgresSQL           | Improving   | ⭐⭐|
-| Modeling DB           | Improving   | ⭐⭐|
-| Spring                | To Improve  | ⭐⭐ |
-| Angular               | Improving  | ⭐ |
+| Modeling DB           | Improving   | ⭐⭐⭐
+| Spring                | Improving  | ⭐⭐⭐ |
+| Angular               | Improving  | ⭐⭐ |
 | React                 | To Learn    | ✨ |
 | Cloud                 | Learning    | ✨ ✨|
 
