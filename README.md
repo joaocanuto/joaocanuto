@@ -3,17 +3,22 @@
 <a href="https://www.linkedin.com/in/joaogacanuto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
 ## About me
-🔭&nbsp;I’m currently working on **Full Stack Development**
-<br/>🌱&nbsp;Learning about **Web Development : Angular Framework and Spring Framework**
-<br/>💡&nbsp;I'm interested about **Computer Science, Games and Series**
-<br/>💬&nbsp;Ask me about **Web Development and Backend**
-<br/>⚡&nbsp;Fun fact **TFT player**
+<br>Gosto de trabalhar nos meus projetos pessoais e tentar agregar neles as ideias que vou aprendendo. 
+<br>Atualmente estou focado em aprender sobre desenvolvimento FullStack e implementar boas práticas dentro dos projetos que trabalho.  
+<br>Desenvolvo projetos usando **Spring** com Java/Groovy e **Angular** com Typescript,Html e CSS. 
 
 ## Projetos:
+
+### WebCrawler-OLX:
+<br> [WebCrawler-OLX](https://github.com/joaocanuto/WebCrawler-Projects).
+Esse foi um dos projetos mais divertidos que eu já fiz. A ideia era simples, apenas coletar os dados especificos do site da OLX e armazena-los em uma planilha.
+
 ### To-Do-List :
-Atualmente estou trabalhando no meu projeto de portifolio :[To-Do-List](https://github.com/joaocanuto/To-Do-List).
-<br> Nele estou implementando muito dos conceitos que aprendi e estou aperfeiçoando, como **Design Patterns**, **API Rest** e **Testes Unitários com JUnit**.
-<br> O projeto trata-se de uma ideia simples, um To-Do-List básico, mas que abrange boas praticas que venho estudando. 
+<br>[To-Do-List](https://github.com/joaocanuto/To-Do-List).
+Atualmente estou trabalhando nesse projeto que sera portifolio.
+<br>Nele estou implementando muito dos conceitos que aprendi e estou aperfeiçoando, como **Design Patterns**, **API Rest** e **Testes Unitários com JUnit**.
+<br>O projeto trata-se de uma ideia simples, um To-Do-List básico, mas que abrange boas praticas que venho estudando.
+<br>Esta sendo desenvolvido em Angular e Spring. Com testes usando JUnit e documentado com Swagger.
 
 ### Linketinder : ( Working )
 
