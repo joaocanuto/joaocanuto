@@ -11,16 +11,14 @@
 
 ### WebCrawler-OLX:
 <br> [WebCrawler-OLX](https://github.com/joaocanuto/WebCrawler-Projects).
-Esse foi um dos projetos mais divertidos que eu já fiz. A ideia era simples, apenas coletar os dados especificos do site da OLX e armazena-los em uma planilha.
+<br>Esse foi um dos projetos mais divertidos que eu já fiz. A ideia era simples, apenas coletar os dados especificos do site da OLX e armazena-los em uma planilha.
 
 ### To-Do-List :
 <br>[To-Do-List](https://github.com/joaocanuto/To-Do-List).
-Atualmente estou trabalhando nesse projeto que sera portifolio.
+<br>Atualmente estou trabalhando nesse projeto que sera portifolio.
 <br>Nele estou implementando muito dos conceitos que aprendi e estou aperfeiçoando, como **Design Patterns**, **API Rest** e **Testes Unitários com JUnit**.
 <br>O projeto trata-se de uma ideia simples, um To-Do-List básico, mas que abrange boas praticas que venho estudando.
 <br>Esta sendo desenvolvido em Angular e Spring. Com testes usando JUnit e documentado com Swagger.
-
-### Linketinder : ( Working )
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
