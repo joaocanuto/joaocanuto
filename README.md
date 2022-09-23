@@ -10,7 +10,8 @@
 <br/>⚡&nbsp;Fun fact **TFT player**
 
 ## Projetos:
-Atualmente estou trabalhando no meu projeto de portifolio :[To-Do-List](https://github.com/joaocanuto/To-Do-List). Nele estou implementando muito dos conceitos que aprendi e estou aperfeiçoando, como **Design Patterns**, **API Rest** e **Testes Unitários com JUnit**.
+Atualmente estou trabalhando no meu projeto de portifolio :[To-Do-List](https://github.com/joaocanuto/To-Do-List).
+<br> Nele estou implementando muito dos conceitos que aprendi e estou aperfeiçoando, como **Design Patterns**, **API Rest** e **Testes Unitários com JUnit**.
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B&" alt="c++ Badge" height="25">&nbsp;
