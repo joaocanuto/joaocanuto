@@ -10,7 +10,9 @@
 💡Projects:
 
 
-SwiftUI - https://github.com/joaocanuto/AudioPlayer
+SwiftUI | iOS 
+  - https://github.com/joaocanuto/AudioPlayer
+  - https://github.com/joaocanuto/Introduction-To-TUs-On-Swift
 
 Bash - https://github.com/joaocanuto/monitorando-pastas
 
