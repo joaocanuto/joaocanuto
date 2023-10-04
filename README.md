@@ -2,6 +2,7 @@
 🌳 Learning React | React Native | AWS Lambda | SwiftUI
 🧑‍💻 Working on FullStack Development and AWS Serveless.
 💡Projects:
+
 SwiftUI - https://github.com/joaocanuto/AudioPlayer
 
 Bash - https://github.com/joaocanuto/monitorando-pastas
