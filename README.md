@@ -1,10 +1,14 @@
 # Hi 👋, I'm João Guilherme
 
-🌳 Learning React | React Native | AWS Lambda | SwiftUI
+
+🌳 Learning React | React Native | AWS Lambda | SwiftUI.
+
 
 🧑‍💻 Working on FullStack Development and AWS Serveless.
 
+
 💡Projects:
+
 
 SwiftUI - https://github.com/joaocanuto/AudioPlayer
 
