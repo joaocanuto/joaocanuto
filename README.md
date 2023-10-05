@@ -1,7 +1,7 @@
 # Hi 👋, I'm João Guilherme
 
 
-🌳 Learning React | React Native | AWS Lambda | SwiftUI.
+🌳 Learning Flutter | React Native | AWS Lambda | SwiftUI.
 
 
 🧑‍💻 Working on FullStack Development and AWS Serveless.
